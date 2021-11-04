@@ -1,2 +1,2 @@
 # Sabrina Engering Docs
-- [Wonder Widget](https://github.com/howitbtecs/16-Sabrina-5/1-WonderWidget.md)
+- [Wonder Widget](https://howitbtecs.github.io/16-Sabrina-5/1-WonderWidget.html)
